@@ -1,12 +1,12 @@
 
+### Dependências
+   * npm install --save express
+   * npm install --save @types/express -D
+   * npm install --save typescript
+   * npm install ts-node-dev -D
+   * npm install tsc-init
 
-npm install --save express
-npm install --save @types/express -D
-npm install --save typescript
-npm install ts-node-dev -D
-npm install tsc-init
-
-OPTIONAL --> sudo npm install tsc-init -g
+   * OPTIONAL --> sudo npm install tsc-init -g
 
 ### Config package.json
   "scripts": {
